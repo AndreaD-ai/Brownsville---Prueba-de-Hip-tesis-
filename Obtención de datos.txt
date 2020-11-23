@@ -1,0 +1,4 @@
+Los datos que se utlizan en este repositorio de Fronteras- Canada- 2019 
+se obtuvieron de la siguiente liga:
+
+https://www.kaggle.com/akhilv11/border-crossing-entry-data
